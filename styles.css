@@ -311,8 +311,7 @@ footer {
 
 
 .footer__logo--img {
-  height: 250px;
-  width:250px;
+  width:200px;
   object-fit: contain;
  }
 
