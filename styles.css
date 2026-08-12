@@ -424,6 +424,10 @@ footer {
 
   .hightlight {
     width: 100%;
+     }
+
+  .highlight:not(:last-child) {
+     margin-bottom: 24px;
   }
 }
 
